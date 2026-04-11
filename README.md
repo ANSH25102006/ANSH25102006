@@ -1,4 +1,37 @@
-## Hi there 👋
+Ansh Pandey
+I am an engineering student focused on building scalable, real-world software solutions. My interests lie in full-stack development and applying machine learning to practical business problems. I aim to convert ideas into deployable products, especially in fast-paced environments like hackathons.
+_________________________________________________________________________________________________________________________________________
+
+Work and Focus
+Currently, I am developing ShopForecast, a web-based system that analyzes sales data, visualizes trends, and generates predictions to support business decision-making.
+_________________________________________________________________________________________________________________________________________
+
+
+Alongside this, I am:
+Building full-stack applications as part of CS50
+Designing SaaS-oriented projects with real usability
+Exploring problem statements in domains like retail analytics and digital marketplaces
+Technical Skills
+Programming Languages: Python, JavaScript, C, SQL
+Frontend Development: HTML, CSS, Tailwind CSS, React (learning)
+Backend Development: Flask, Node.js (fundamentals)
+Databases: SQLite, MySQL
+Tools and Practices: Git, GitHub, VS Code, REST APIs, basic Machine Learning workflows, data visualization
+_________________________________________________________________________________________________________________________________________
+
+Projects
+ShopForecast
+A predictive analytics platform that allows users to input or upload sales data, visualize patterns, and receive future sales forecasts along with actionable insights.
+(More projects will be added as I continue building and experimenting.)
+_________________________________________________________________________________________________________________________________________
+
+Approach
+I focus on writing clean, structured code and building systems that are practical and user-oriented. My goal is not just to complete projects, but to develop solutions that can scale into products.
+_________________________________________________________________________________________________________________________________________
+
+Contact
+Email: anshpandey2510@gmail.com
+LinkedIn:www.linkedin.com/in/ansh-pandey-4a295b378
 
 <!--
 **ANSH25102006/ANSH25102006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
