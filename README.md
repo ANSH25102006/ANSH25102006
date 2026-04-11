@@ -8,14 +8,6 @@ Work and Focus <br>
 Currently, I am developing ShopForecast, a web-based system that analyzes sales data, visualizes trends, and generates predictions to support business decision-making.
 _________________________________________________________________________________________________________________________________________
 
-
-Alongside this, I am:
-<br>
-1. Building full-stack applications as part of CS50<br>
-2. Designing SaaS-oriented projects with real usability<br>
-3. Exploring problem statements in domains like retail analytics and digital marketplaces<br>
-_________________________________________________________________________________________________________________________________________
-
 Technical Skills<br>
 1. Programming Languages: Python, JavaScript, C, SQL<br>
 2. Frontend Development: HTML, CSS, Tailwind CSS, React (learning)<br>
