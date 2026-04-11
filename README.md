@@ -1,4 +1,4 @@
-Ansh Pandey
+Hi Everyone !!   
 <br>
 I am an engineering student focused on building scalable, real-world software solutions. My interests lie in full-stack development and applying machine learning to practical business problems. I aim to convert ideas into deployable products, especially in fast-paced environments like hackathons.
 _________________________________________________________________________________________________________________________________________
@@ -11,19 +11,21 @@ ________________________________________________________________________________
 
 Alongside this, I am:
 <br>
-Building full-stack applications as part of CS50<br>
-Designing SaaS-oriented projects with real usability<br>
-Exploring problem statements in domains like retail analytics and digital marketplaces<br>
+1. Building full-stack applications as part of CS50<br>
+2. Designing SaaS-oriented projects with real usability<br>
+3. Exploring problem statements in domains like retail analytics and digital marketplaces<br>
+_________________________________________________________________________________________________________________________________________
+
 Technical Skills<br>
-Programming Languages: Python, JavaScript, C, SQL<br>
-Frontend Development: HTML, CSS, Tailwind CSS, React (learning)<br>
-Backend Development: Flask, Node.js (fundamentals)<br>
-Databases: SQLite, MySQL<br>
-Tools and Practices: Git, GitHub, VS Code, REST APIs, basic Machine Learning workflows, data visualization<br>
+1. Programming Languages: Python, JavaScript, C, SQL<br>
+2. Frontend Development: HTML, CSS, Tailwind CSS, React (learning)<br>
+3. Backend Development: Flask, Node.js (fundamentals)<br>
+4. Databases: SQLite, MySQL<br>
+5. Tools and Practices: Git, GitHub, VS Code, REST APIs, basic Machine Learning workflows, data visualization<br>
 _________________________________________________________________________________________________________________________________________
 
 Projects<br>
-ShopForecast<br>
+1. SHOP FORECAST<br>
 A predictive analytics platform that allows users to input or upload sales data, visualize patterns, and receive future sales forecasts along with actionable insights.
 (More projects will be added as I continue building and experimenting.)
 _________________________________________________________________________________________________________________________________________
@@ -33,7 +35,7 @@ I focus on writing clean, structured code and building systems that are practica
 _________________________________________________________________________________________________________________________________________
 
 Contact<br>
-Email: anshpandey2510@gmail.com
+Email: anshpandey2510@gmail.com <br>
 LinkedIn:www.linkedin.com/in/ansh-pandey-4a295b378
 
 <!--
