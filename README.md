@@ -1,4 +1,4 @@
-# 💫 About Me :
+# 💫 About Me:
 I am an engineering student focused on building scalable, real-world software solutions. My interests lie in full-stack development and applying machine learning to practical business problems.<br><br>I aim to convert ideas into deployable products, especially in fast-paced environments like hackathons.<br>Currently, I am developing ShopForecast, a web-based system that analyzes sales data, visualizes trends, and generates predictions to support business decision-making.
 
 
