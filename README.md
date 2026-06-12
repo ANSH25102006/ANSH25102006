@@ -87,7 +87,7 @@ I enjoy transforming ideas into production-ready products and continuously impro
 # 🚀 Featured Projects
 
 <details>
-<summary><b>🏥 MedicoMapre</b></summary>
+<summary><b>🏥 MediCompare</b></summary>
 
 ### MediCompare (Healthcare Price Transparency Platform)
 
@@ -111,22 +111,6 @@ A healthcare intelligence platform helping users discover hospitals, compare tre
 
 </details>
 
-<details>
-<summary><b>📝 QuickNotes</b></summary>
-
-### CS50 Final Project
-
-A modern productivity platform enabling users to create, organize, and manage notes efficiently.
-
-| Category    | Details                        |
-| ----------- | ------------------------------ |
-| Stack       | Flask, Python, SQL, JavaScript |
-| Scale       | Personal Productivity Platform |
-| Performance | Lightweight & Fast             |
-| Security    | Secure User Authentication     |
-| Impact      | Improved Personal Organization |
-
-</details>
 
 <details>
 <summary><b>🌾 ShopForecast(Farmer Direct Market Access Platform)</b></summary>
