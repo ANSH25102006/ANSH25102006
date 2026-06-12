@@ -222,11 +222,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🏅 GitHub Trophies
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ANSH25102006&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/ANSH25102006/ANSH25102006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
