@@ -1,15 +1,354 @@
-# 💫 About Me:
-I am an engineering student focused on building scalable, real-world software solutions. My interests lie in full-stack development and applying machine learning to practical business problems.<br><br>I aim to convert ideas into deployable products, especially in fast-paced environments like hackathons.<br>Currently, I am developing ShopForecast, a web-based system that analyzes sales data, visualizes trends, and generates predictions to support business decision-making.
+# <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=ANSH%20PANDEY&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ansh-pandey-4a295b378)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshpandey2510@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Powered+Product+Builder;Healthcare+Technology+Enthusiast;CS50+Graduate;Problem+Solver+%7C+Open+Source+Learner"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ANSH25102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ANSH25102006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ANSH25102006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://img.shields.io/badge/Computer%20Science-Student-indigo?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Year-2nd%20Year-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semester-4th-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<a href="https://www.linkedin.com/in/ansh-pandey25">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anshpandey2510@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ANSH25102006">
+<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ANSH25102006&style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I am a **Computer Science undergraduate** passionate about building technology products that solve real-world problems.
+
+My interests lie at the intersection of:
+
+* Full Stack Development
+* AI Powered Applications
+* Healthcare Technology
+* Product Engineering
+* Software Architecture
+* Problem Solving
+
+Currently, I am focused on building scalable applications, mastering Data Structures & Algorithms, and developing AI-driven platforms capable of creating meaningful social impact.
+
+I enjoy transforming ideas into production-ready products and continuously improving my engineering mindset through hands-on projects and open-source learning.
+
+### Open To
+
+* Software Engineering Internships
+* Full Stack Development Roles
+* AI Engineering Opportunities
+* Hackathons
+* Open Source Contributions
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,sql"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,postgresql,sqlite,firebase"/>
+</p>
+
+## Cloud, DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode"/>
+</p>
+
+## AI & Emerging Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+* OpenAI APIs
+* Prompt Engineering
+* NLP Workflows
+* AI Agents
+* Retrieval Augmented Generation (RAG)
+* Automation Systems
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain             | Proficiency  | Details                                       |
+| ------------------ | ------------ | --------------------------------------------- |
+| Prompt Engineering | Advanced     | Building AI workflows and intelligent systems |
+| AI Integration     | Advanced     | Integrating AI into web applications          |
+| NLP                | Intermediate | Text processing and conversational systems    |
+| Automation         | Intermediate | Automated pipelines and workflows             |
+| RAG Systems        | Intermediate | Context-aware AI systems                      |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🏥 MedicoMapre</b></summary>
+
+### Healthcare Price Transparency Platform
+
+A healthcare intelligence platform helping users discover hospitals, compare treatments, estimate medical costs, and make informed healthcare decisions.
+
+| Category    | Details                                  |
+| ----------- | ---------------------------------------- |
+| Stack       | React, TypeScript, TailwindCSS, Supabase |
+| Scale       | Nationwide Healthcare Discovery Platform |
+| Performance | Optimized Search & Responsive UI         |
+| Security    | Authentication & Protected Routes        |
+| Impact      | Increased Healthcare Transparency        |
+
+### Key Features
+
+* Hospital Discovery
+* Treatment Comparison
+* Healthcare Cost Estimation
+* AI Assisted Recommendations
+* Modern Dashboard Experience
+
+</details>
+
+<details>
+<summary><b>📝 QuickNotes</b></summary>
+
+### CS50 Final Project
+
+A modern productivity platform enabling users to create, organize, and manage notes efficiently.
+
+| Category    | Details                        |
+| ----------- | ------------------------------ |
+| Stack       | Flask, Python, SQL, JavaScript |
+| Scale       | Personal Productivity Platform |
+| Performance | Lightweight & Fast             |
+| Security    | Secure User Authentication     |
+| Impact      | Improved Personal Organization |
+
+</details>
+
+<details>
+<summary><b>🌾 Farmer Direct Market Access Platform</b></summary>
+
+### Connecting Farmers Directly To Buyers
+
+A platform designed to eliminate middlemen and provide direct access between farmers and consumers.
+
+| Category    | Details                        |
+| ----------- | ------------------------------ |
+| Stack       | React, Node.js, PostgreSQL     |
+| Scale       | Multi User Marketplace         |
+| Performance | Real-Time Listings             |
+| Security    | Verified User Access           |
+| Impact      | Increased Farmer Profitability |
+
+</details>
+
+<details>
+<summary><b>🧪 AR Science Learning Platform</b></summary>
+
+### Interactive Learning Through Augmented Reality
+
+An AR-powered education system enabling students to understand complex science concepts using 3D models and AI-generated explanations.
+
+| Category    | Details                          |
+| ----------- | -------------------------------- |
+| Stack       | AR Technologies, AI Systems      |
+| Scale       | Educational Platform             |
+| Performance | Interactive Visualization Engine |
+| Security    | Student Friendly Environment     |
+| Impact      | Improved STEM Learning           |
+
+</details>
+
+---
+
+# 💼 Experience
+
+### Independent Full Stack Developer
+
+**2024 — Present**
+
+#### Responsibilities
+
+* Designing modern web applications
+* Building AI-powered products
+* Creating scalable backend architectures
+* Developing responsive frontends
+* Integrating APIs and databases
+* Deploying production-ready solutions
+
+---
+
+# 🏆 Achievements
+
+| Recognition           | Details                                              |
+| --------------------- | ---------------------------------------------------- |
+| Harvard CS50 Graduate | Completed Harvard's Introduction to Computer Science |
+| AI Builder            | Developed AI integrated applications                 |
+| Full Stack Developer  | Built multiple production-grade projects             |
+| Problem Solver        | Active LeetCode practitioner                         |
+| Healthcare Innovator  | Building MedicoMapre platform                        |
+
+---
+
+# 📜 Certifications
+
+### Harvard University
+
+* CS50: Introduction to Computer Science
+
+### JPMorgan Chase & Co.
+
+* Software Engineering Virtual Experience Program
+
+---
+
+# 👨‍💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Ansh_2510/">
+<img src="https://img.shields.io/badge/LeetCode-Ansh__2510-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANSH25102006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSH25102006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ANSH25102006&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ANSH25102006&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSH25102006&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ANSH25102006/ANSH25102006/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Data Structures & Algorithms
+  - System Design
+  - Backend Engineering
+  - AI Agents
+
+building:
+  - MedicoMapre
+  - QuickNotes
+  - Healthcare Intelligence Platform
+
+exploring:
+  - RAG Systems
+  - Multi Agent AI
+  - Cloud Architecture
+  - Product Engineering
+
+open_to:
+  - Software Engineering Internships
+  - Full Stack Roles
+  - Open Source Collaboration
+  - Hackathons
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:anshpandey2510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ansh-pandey25">
+<img src="https://img.shields.io/badge/LinkedIn-Ansh%20Pandey-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ANSH25102006">
+<img src="https://img.shields.io/badge/GitHub-ANSH25102006-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building products that create real-world impact through technology."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
