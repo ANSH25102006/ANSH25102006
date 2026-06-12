@@ -39,7 +39,6 @@ My interests lie at the intersection of:
 
 * Full Stack Development
 * AI Powered Applications
-* Healthcare Technology
 * Product Engineering
 * Software Architecture
 * Problem Solving
@@ -97,26 +96,14 @@ I enjoy transforming ideas into production-ready products and continuously impro
 * Retrieval Augmented Generation (RAG)
 * Automation Systems
 
----
 
-# 🤖 AI / ML Expertise
-
-| Domain             | Proficiency  | Details                                       |
-| ------------------ | ------------ | --------------------------------------------- |
-| Prompt Engineering | Advanced     | Building AI workflows and intelligent systems |
-| AI Integration     | Advanced     | Integrating AI into web applications          |
-| NLP                | Intermediate | Text processing and conversational systems    |
-| Automation         | Intermediate | Automated pipelines and workflows             |
-| RAG Systems        | Intermediate | Context-aware AI systems                      |
-
----
 
 # 🚀 Featured Projects
 
 <details>
 <summary><b>🏥 MedicoMapre</b></summary>
 
-### Healthcare Price Transparency Platform
+### MediCompare (Healthcare Price Transparency Platform)
 
 A healthcare intelligence platform helping users discover hospitals, compare treatments, estimate medical costs, and make informed healthcare decisions.
 
@@ -156,7 +143,7 @@ A modern productivity platform enabling users to create, organize, and manage no
 </details>
 
 <details>
-<summary><b>🌾 Farmer Direct Market Access Platform</b></summary>
+<summary><b>🌾 ShopForecast(Farmer Direct Market Access Platform)</b></summary>
 
 ### Connecting Farmers Directly To Buyers
 
@@ -212,11 +199,10 @@ An AR-powered education system enabling students to understand complex science c
 
 | Recognition           | Details                                              |
 | --------------------- | ---------------------------------------------------- |
-| Harvard CS50 Graduate | Completed Harvard's Introduction to Computer Science |
-| AI Builder            | Developed AI integrated applications                 |
+| Harvard CS50 Graduate | Completed Harvard's Introduction to Computer Science |                 |
 | Full Stack Developer  | Built multiple production-grade projects             |
 | Problem Solver        | Active LeetCode practitioner                         |
-| Healthcare Innovator  | Building MedicoMapre platform                        |
+| Healthcare Innovator  | Built MedicCompare platform                        |
 
 ---
 
