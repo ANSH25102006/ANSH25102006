@@ -83,20 +83,6 @@ I enjoy transforming ideas into production-ready products and continuously impro
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode"/>
 </p>
 
-## AI & Emerging Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-* OpenAI APIs
-* Prompt Engineering
-* NLP Workflows
-* AI Agents
-* Retrieval Augmented Generation (RAG)
-* Automation Systems
-
-
 
 # 🚀 Featured Projects
 
