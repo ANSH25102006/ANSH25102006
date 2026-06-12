@@ -258,44 +258,6 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - System Design
-  - Backend Engineering
-  - AI Agents
-
-building:
-  - MedicoMapre
-  - QuickNotes
-  - Healthcare Intelligence Platform
-
-exploring:
-  - RAG Systems
-  - Multi Agent AI
-  - Cloud Architecture
-  - Product Engineering
-
-open_to:
-  - Software Engineering Internships
-  - Full Stack Roles
-  - Open Source Collaboration
-  - Hackathons
-```
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
