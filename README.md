@@ -261,8 +261,7 @@ An AR-powered education system enabling students to understand complex science c
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ANSH25102006/ANSH25102006/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
