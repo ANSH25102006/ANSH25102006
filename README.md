@@ -269,3 +269,35 @@ An AR-powered education system enabling students to understand complex science c
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
 </div>
+<table>
+  <div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+      <tr>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" height="40" alt="C++" /><br>C++
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" /><br>Python
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript" /><br>TypeScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="40" height="40" alt="Swift" /><br>Swift
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Golang" /><br>Golang
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" /><br>MySQL
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
+        </td>
+      </tr>
