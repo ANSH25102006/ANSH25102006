@@ -298,14 +298,20 @@ An AR-powered education system enabling students to understand complex science c
 ---
 
 # 🐍 Contribution Snake
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ANSH25102006/ANSH25102006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
----
+
 
 # 📈 Contribution Graph
 
