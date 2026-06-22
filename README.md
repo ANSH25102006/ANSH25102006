@@ -32,6 +32,14 @@
 ---
 
 # 💫 About Me
+<h3 align="center">
+    <samp>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Shivam)](https://git.io/typing-svg)
+</samp>
+
+
+</h3>
 
 I am a **Computer Science undergraduate** passionate about building technology products that solve real-world problems.
 
