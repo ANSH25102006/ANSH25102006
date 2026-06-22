@@ -298,43 +298,7 @@ An AR-powered education system enabling students to understand complex science c
 <div align="center">
 
 ### "Building products that create real-world impact through technology."
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ANSH25102006&show_icons=true&theme=github_dark&hide_border=true" />
-</td>
-
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSH25102006&theme=github-dark-blue&hide_border=true" />
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSH25102006&layout=compact&theme=github_dark&hide_border=true" />
-</td>
-
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANSH25102006&theme=github_dark" />
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 🚀 Current Focus
-
-💻 Full-Stack Web Development  
-⚛️ React & Tailwind CSS  
-🗄️ Supabase & PostgreSQL  
-🤖 AI-Powered Applications  
-📚 CS50 & Computer Science Projects
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
