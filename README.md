@@ -166,11 +166,7 @@ I enjoy transforming ideas into production-ready products and continuously impro
   </tr>
 </table>
 
-<div align="center">
-
-🚀 Featured Projects
-
-</div>
+<h1 align="center">🚀 Featured Projects</h1>
 
 <details>
 <summary><b>🏥 MediCompare</b></summary>
@@ -234,11 +230,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
- 💼 Experience
-
-</div>
+<h1 align="center">💼 Experience</h1>
 
 ### Independent Full Stack Developer
 
@@ -255,11 +247,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
- 🏆 Achievements
-
-</div>
+<h1 align="center">🏆 Achievements</h1>
 
 | Recognition           | Details                                              |
 | --------------------- | ---------------------------------------------------- |
@@ -270,11 +258,8 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
+<h1 align="center">📜 Certifications</h1>
 
- 📜 Certifications
-
-</div>
 
 ### Harvard University
 
@@ -286,11 +271,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
- 👨‍💻 Coding Profiles
-
-</div>
+<h1 align="center">👨‍💻 Coding Profiles</h1>
 
 <p align="center">
 
@@ -302,11 +283,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
- 📊 GitHub Analytics
-
-</div>
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
@@ -318,11 +295,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
-🔥 Contribution Streak
-
-</div>
+<h1 align="center">🔥 Contribution Streak</h1>
 
 <div align="center">
 
@@ -332,11 +305,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
-🐍 Contribution Snake
-
-</div>
+<h1 align="center">🐍 Contribution Snake</h1>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
@@ -352,11 +321,7 @@ An AR-powered education system enabling students to understand complex science c
 
 
 
-<div align="center">
-
- 📈 Contribution Graph
-
-</div>
+<h1 align="center">📈 Contribution Graph</h1>
 
 <div align="center">
 
@@ -366,11 +331,7 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-<div align="center">
-
- 🤝 Connect With Me
-
-</div>
+<h1 align="center">🤝 Connect With Me</h1>
 
 <p align="center">
 
