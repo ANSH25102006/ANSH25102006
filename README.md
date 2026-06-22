@@ -167,7 +167,7 @@ I enjoy transforming ideas into production-ready products and continuously impro
   </tr>
 </table>
 
----
+
 
 <h1 align="center">🚀 Featured Projects</h1>
 
