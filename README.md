@@ -36,7 +36,11 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
+<div align="center">
+
 # 💫 About Me
+
+</div>
 
 
 I am a **Computer Science undergraduate** passionate about building technology products that solve real-world problems.
@@ -162,7 +166,11 @@ I enjoy transforming ideas into production-ready products and continuously impro
   </tr>
 </table>
 
-# 🚀 Featured Projects
+<div align="center">
+
+🚀 Featured Projects
+
+</div>
 
 <details>
 <summary><b>🏥 MediCompare</b></summary>
@@ -226,7 +234,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 💼 Experience
+<div align="center">
+
+ 💼 Experience
+
+</div>
 
 ### Independent Full Stack Developer
 
@@ -243,7 +255,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🏆 Achievements
+<div align="center">
+
+ 🏆 Achievements
+
+</div>
 
 | Recognition           | Details                                              |
 | --------------------- | ---------------------------------------------------- |
@@ -254,7 +270,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 📜 Certifications
+<div align="center">
+
+ 📜 Certifications
+
+</div>
 
 ### Harvard University
 
@@ -266,7 +286,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 👨‍💻 Coding Profiles
+<div align="center">
+
+ 👨‍💻 Coding Profiles
+
+</div>
 
 <p align="center">
 
@@ -278,7 +302,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
+
+ 📊 GitHub Analytics
+
+</div>
 
 <div align="center">
 
@@ -290,7 +318,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🔥 Contribution Streak
+<div align="center">
+
+🔥 Contribution Streak
+
+</div>
 
 <div align="center">
 
@@ -300,7 +332,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
+
+🐍 Contribution Snake
+
+</div>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
@@ -316,7 +352,11 @@ An AR-powered education system enabling students to understand complex science c
 
 
 
-# 📈 Contribution Graph
+<div align="center">
+
+ 📈 Contribution Graph
+
+</div>
 
 <div align="center">
 
@@ -326,7 +366,11 @@ An AR-powered education system enabling students to understand complex science c
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
+
+ 🤝 Connect With Me
+
+</div>
 
 <p align="center">
 
