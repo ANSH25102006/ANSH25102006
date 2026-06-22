@@ -24,6 +24,13 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+<div align="center">
+
+<a href="https://github.com/ANSH25102006">
+  <img src="https://komarev.com/ghpvc/?username=ANSH25102006&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+</a>
+
+</div>
 
 <br>
 
@@ -159,6 +166,7 @@ I enjoy transforming ideas into production-ready products and continuously impro
     </td>
   </tr>
 </table>
+---
 
 <h1 align="center">🚀 Featured Projects</h1>
 
