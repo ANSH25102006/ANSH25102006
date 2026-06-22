@@ -37,10 +37,6 @@
 </p>
 <h1 align="center">About Me</h1>
 
-# 💫 About Me
-
-</div>
-
 
 I am a **Computer Science undergraduate** passionate about building technology products that solve real-world problems.
 
