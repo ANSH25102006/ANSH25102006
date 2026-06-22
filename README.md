@@ -37,6 +37,13 @@
 </p>
 
 <div align="center">
+<div align="center">
+  <img
+    src="https://itshivam.in/api/github-profile?username=ANSH25102006&data=followers,repositories,stars,commits&theme=neon"
+    alt="Ansh GitHub Profile"
+    width="90%"
+  />
+</div>
 
 # 💫 About Me
 
