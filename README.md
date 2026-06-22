@@ -77,6 +77,9 @@ I enjoy transforming ideas into production-ready products and continuously impro
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /><br>CSS
     </td>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+  </td>
   </tr>
 
   <tr>
@@ -95,11 +98,11 @@ I enjoy transforming ideas into production-ready products and continuously impro
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" /><br>WordPress
     </td>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
+  </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
-  </td>
 
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js
@@ -125,19 +128,17 @@ I enjoy transforming ideas into production-ready products and continuously impro
     <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
   </td>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
-  </td>
 
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
-  </td>
+
 </tr>
 
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
     </td>
+      <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
+  </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" /><br>Supabase
     </td>
