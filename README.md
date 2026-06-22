@@ -96,6 +96,43 @@ I enjoy transforming ideas into production-ready products and continuously impro
       <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" /><br>WordPress
     </td>
   </tr>
+  <tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" /><br>Firebase
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /><br>Next.js
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" /><br>Supabase
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>PostgreSQL
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
+  </td>
+
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /><br>Tailwind
+  </td>
+</tr>
 
   <tr>
     <td align="center" width="96">
