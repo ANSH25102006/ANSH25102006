@@ -29,12 +29,28 @@
 
 </div>
 
----
 <p align="center">
   <a href="https://github.com/ANSH25102006">
     <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif"
          alt="Animated footer bars"
          width="100%" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
+
+<hr>
+
+<div align="center">
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FANSH25102006%2FANSH25102006&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" alt="Visitor Counter" />
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/ANSH25102006">
+    <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%" />
   </a>
 </p>
 
