@@ -73,6 +73,16 @@ Currently, I'm focused on improving my software engineering skills, exploring ma
   Technologies I use to build scalable applications and solve real-world problems.
 </h4>
 
+<div align="center">
+
+<img
+  src="https://icon-marquee.giann.dev/v1/marquee?i=cpp,python,js,ts,react,html,css,nodejs,express,fastapi,nextjs,postgres,mongodb,mysql,supabase,firebase,java,vite,docker,git,github,vercel&width=1000"
+  width="100%"
+  alt="Animated technology stack"
+/>
+
+</div>
+
 <table align="center">
   <tr>
     <td align="center" width="110">
