@@ -1,4 +1,4 @@
-# ANSH PANDEY — GitHub Profile README
+
 
 <div align="center">
 
@@ -244,18 +244,6 @@ An interactive developer portfolio showcasing my projects, technical skills, exp
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=ANSH25102006&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<!-- CONTRIBUTIONS -->
-
-<h1 align="center">📈 Contribution Activity</h1>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSH25102006&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
