@@ -141,55 +141,66 @@ const ansh = {
 
 <!-- ===================== PROJECTS ===================== -->
 
-<h1 align="center">🚀 Featured Projects</h1>
+# 🚀 Featured Projects
 
-<div align="center">
+### 1. MediCompare – Healthcare Comparison Platform
 
 <a href="https://medi-compare.netlify.app">
-<img src="https://img.shields.io/badge/MediCompare-00FF88?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-4F46E5?style=for-the-badge"/>
+</a>
+<a href="https://github.com/ANSH25102006/Medi_Compare">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<h3>Healthcare Comparison Platform</h3>
+A healthcare platform designed to help users compare hospitals and healthcare services based on pricing, ratings, location, and availability.
 
-Compare hospitals and healthcare services based on pricing, ratings, location and availability.
+**Key Features:**
+- Hospital and healthcare service comparison.
+- Location-based hospital discovery.
+- Appointment booking workflows.
+- User authentication and role-based dashboards.
+- Hospital reviews and ratings.
+- Online payment integration.
 
-<b>Tech Stack:</b> React · TypeScript · Supabase · PostgreSQL · Razorpay
+**Technologies:** React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Razorpay.
 
-<a href="https://github.com/ANSH25102006/Medi_Compare">Repository</a> |
-<a href="https://medi-compare.netlify.app">Live Demo</a>
-
-<br/><br/>
+### 2. Personal Finance Spend Auditor
 
 <a href="https://finance-01-navy.vercel.app">
-<img src="https://img.shields.io/badge/Personal%20Finance%20Spend%20Auditor-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-4F46E5?style=for-the-badge"/>
+</a>
+<a href="https://github.com/ANSH25102006/finance-">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<h3>Personal Finance Spend Auditor</h3>
+A personal finance application designed to track transactions, analyze spending patterns, and provide intelligent financial insights.
 
-Track transactions, analyze spending patterns and generate intelligent financial insights.
+**Key Features:**
+- Transaction management and CSV imports.
+- Spending analysis and merchant intelligence.
+- Automated financial anomaly detection.
+- Savings simulator and predictions.
+- Financial reports and PDF support.
+- Interactive financial dashboard.
 
-<b>Tech Stack:</b> Python · FastAPI · React · TypeScript · PostgreSQL
+**Technologies:** React, TypeScript, FastAPI, Python, PostgreSQL, Supabase, SQLAlchemy.
 
-<a href="https://github.com/ANSH25102006/finance-">Repository</a> |
-<a href="https://finance-01-navy.vercel.app">Live Demo</a>
-
-<br/><br/>
+### 3. Developer Portfolio
 
 <a href="https://github.com/ANSH25102006/Portfolio">
-<img src="https://img.shields.io/badge/Developer%20Portfolio-00FF88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<h3>Interactive Developer Portfolio</h3>
+An interactive developer portfolio showcasing my projects, technical skills, experience, and development journey.
 
-An interactive portfolio showcasing projects, skills and my development journey.
+**Key Features:**
+- Interactive 3D-inspired experience.
+- Animated sections and transitions.
+- Project showcase.
+- Technical skills and developer profiles.
 
-<b>Tech Stack:</b> React · TypeScript · Tailwind CSS
+**Technologies:** React, TypeScript, Tailwind CSS, JavaScript.
 
-<a href="https://github.com/ANSH25102006/Portfolio">Repository</a>
-
-</div>
-
-<hr/>
 
 <!-- ===================== EXPERIENCE ===================== -->
 
