@@ -12,12 +12,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ANSH25102006&label=PROFILE+VISITORS&color=7C3AED&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ANSH25102006?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=161B22"/>
-
-<img src="https://img.shields.io/github/stars/ANSH25102006?label=TOTAL%20STARS&style=for-the-badge&color=4F46E5&labelColor=161B22"/>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ansh-pandey25">
